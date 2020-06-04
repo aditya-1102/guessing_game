@@ -1,7 +1,7 @@
-Title of the project: __Peer-graded Assignment: Bash, Make, Git, and GitHub__
+Title : The Unix Workbench Project Guessing Game
 
 Date make ran at:
-Tue June 4 21:24:35 CEST 2020
+Tue June 4 21:24:35 IND 2020
 
-Number of lines file guessinggame.sh contains:
+Number of lines contained by file guessinggame.sh:
       29
